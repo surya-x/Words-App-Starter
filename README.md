@@ -24,6 +24,6 @@ The app demonstrates the use of Intents in two ways:
 
 ## Getting Started
 1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+2. Download or Clone the project.
+3. Import the project into Android Studio.
+4. Build and run the project.
