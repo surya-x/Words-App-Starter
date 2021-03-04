@@ -31,6 +31,7 @@ import com.example.wordsapp.databinding.ActivityMainBinding
 class MainActivity : AppCompatActivity() {
     private lateinit var recyclerView: RecyclerView
     private var isLinearLayoutManager = true
+
     private fun chooseLayout() {
         if (isLinearLayoutManager) {
             recyclerView.layoutManager = LinearLayoutManager(this)
